@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2132006840646326574}
   - component: {fileID: 2132006840646326575}
   - component: {fileID: 2132006840646326568}
+  - component: {fileID: 431032868010746564}
   m_Layer: 0
   m_Name: Weapon
   m_TagString: Weapon
@@ -97,4 +98,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d06e3e175193e449851d1124a7d0e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 20
+  moveSpeed: 10
+  damage: 1
+--- !u!58 &431032868010746564
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2132006840646326569}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.012996465, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.20529476
