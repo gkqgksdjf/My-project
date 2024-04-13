@@ -1,0 +1,8 @@
+D:\WorkSpace\My project\Temp\bin\Debug\Assembly-CSharp.deps.json
+D:\WorkSpace\My project\Temp\bin\Debug\Assembly-CSharp.dll
+D:\WorkSpace\My project\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\WorkSpace\My project\Temp\obj\Debug\Assembly-CSharp\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\WorkSpace\My project\Temp\obj\Debug\Assembly-CSharp\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\My project\Temp\obj\Debug\Assembly-CSharp\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\WorkSpace\My project\Temp\obj\Debug\Assembly-CSharp\Assembly-CSharp.dll
+D:\WorkSpace\My project\Temp\obj\Debug\Assembly-CSharp\Assembly-CSharp.pdb
